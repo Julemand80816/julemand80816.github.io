@@ -1,13 +1,13 @@
 body {
-    background-color: powderblue;
-  }
-  h1 {
-    color: blue;
-  }
-  p {
-    font-size:120%; color: black;
-  }
-  table {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+p {
+  font-size:120%; color: black;
+}
+table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 50%;
@@ -18,8 +18,8 @@ td, th {
   padding: 8px;
 }
 tr:nth-child(even) {
-  background-color: #bbbbbb;
+  background-color: #cccccc;
 }
 tr:nth-child(odd) {
-  background-color: #aaaaaa;
+  background-color: #bbbbbb;
 }
